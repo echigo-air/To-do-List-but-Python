@@ -24,11 +24,12 @@ python tasklog.py
 No installation. No dependencies outside the standard library.
 
 🎮 How to Use
-text
+```
 1. Add Task
 2. See Tasks
 3. Remove Task
 4. Quit
+```
 Type the number of what you want to do. That's it.
 
 🧠 Why I Built This
@@ -41,11 +42,11 @@ text
 ```tasklog/
 ├── tasklog.py      # main script
 └── tasks.txt       # created automatically – stores your tasks
-🛠️ built with
+```
+🛠️ Built With
 python 3.13.7
 
 os, time, sys – only the standard library
-```
 
 my own patience (and lack of it)
 
